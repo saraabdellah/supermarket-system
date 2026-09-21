@@ -3,7 +3,7 @@ let choice;
 let totalSales=0;
 let products=[];
 function menu(){
-    console.log("====== SUPERMARKET ======");
+    console.log("====== SUPERMARKET MANAGEMENT SYSTEM ======");
     console.log("1.Add products");
     console.log("2.show products");
     console.log("3.search product");
