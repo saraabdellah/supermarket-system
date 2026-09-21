@@ -6,7 +6,7 @@ function menu(){
     console.log("====== SUPERMARKET MANAGEMENT SYSTEM ======");
     console.log("1.Add products");
     console.log("2.show products");
-    console.log("3.search product");
+    console.log("3.search for a product");
     console.log("4.Buy products");
     console.log("5.Show Total Sales");
     console.log("6.Exit");
