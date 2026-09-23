@@ -9,7 +9,7 @@ function menu(){
     console.log("3.search for a product");
     console.log("4.Buy products");
     console.log("5.Show Total Sales");
-    console.log("6.Exit");
+    console.log("6.Exit the supermarket");
 }
 do{
  menu();  
