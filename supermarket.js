@@ -9,7 +9,9 @@ function menu(){
     console.log("3.search for a product");
     console.log("4.Buy products");
     console.log("5.Show Total Sales");
-    console.log("6.Exit the supermarket");
+    console.log("6.Remove products");
+    console.log("7.Exit the supermarket");
+    
 }
 do{
  menu();  
@@ -97,6 +99,10 @@ console.log("Total Sales: " + totalSales + " Birr")
 console.log();
 }
 else if(choice===6){
+    let name=prompt("Enter Product name:");
+    console.log("Product removed!");
+}
+else if(choice===7){
     console.log("Thank you for shopping with us!");
     console.log("GoodBye!");
 }
